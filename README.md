@@ -2,7 +2,7 @@ ChatBot Design by API
 
 Click Button on Message icon
 
-cd clone https://github.com/kirtimani/ChatBot.git
+git clone https://github.com/kirtimani/ChatBot.git
 
 ./index.html
 style.css
